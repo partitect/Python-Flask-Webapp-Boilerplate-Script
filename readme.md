@@ -56,4 +56,5 @@ Stay tuned for more updates!
 
 💡 _Have suggestions or issues? Please raise an issue on the GitHub repository or contact Telat directly._
 
-Get inspired from https://github.com/mgregoire254/Python-Webapp-Boilerplate-Script
+[Inspired by project](https://github.com/mgregoire254/Python-Webapp-Boilerplate-Script)
+[Thanks Mike Gregoire](https://github.com/mgregoire254)
